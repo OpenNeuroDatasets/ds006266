@@ -1,0 +1,5 @@
+filename	acq_time
+anat/sub-62015_ses-1_acq-t1csmp2ragesag06mmUNIDEN_T1w.nii.gz	1925-01-01T14:30:45
+func/sub-62015_ses-1_task-forgetexp_acq-epfid2d1210_bold.nii.gz	1925-01-01T14:39:03
+func/sub-62015_ses-1_task-consolidation_acq-epfid2d1210_bold.nii.gz	1925-01-01T14:58:27
+func/sub-62015_ses-1_task-retrieval_acq-epfid2d1210_bold.nii.gz	1925-01-01T15:04:50
