@@ -1,5 +1,5 @@
 {
-    "Name": "TOAM - Trajectory of a Memory Trace. Human episodic memory fMRI dataset",
+    "Name": "TOAM – Trajectory of a Memory Trace. Human episodic memory 7T fMRI dataset",
     "BIDSVersion": "1.2.2",
     "DatasetType": "raw",
     "License": "CCO",
@@ -10,8 +10,8 @@
         "Andrea Federspiel",
         "Katharina Henke"
     ],
-    "Acknowledgements": "The authors thank Luzius Brogli for his support during data analysis. Calculations were performed on UBELIX (https://www.id.unibe.ch/hpc), the HPC cluster at the University of Bern.",
-    "HowToAcknowledge": "OPTIONAL. Instructions how researchers using this dataset should acknowledge the original authors. This field can also be used to define a publication that should be cited in publications that use the dataset",
+    "Acknowledgements": "The authors thank Mirco Bristle and Luzius Brogli for his support during data analysis. Calculations were performed on UBELIX (https://www.id.unibe.ch/hpc), the HPC cluster at the University of Bern.",
+    "HowToAcknowledge": "This will be replaced by publication details once published.",
     "Funding": [
         "This work was supported by Sitem-Insel Support Funds SISF 2019 to K. Henke and by the SNFS Advanced Grant TMAG-1_209374 to K. Henke."
     ],
