@@ -18,10 +18,7 @@
     "EthicsApprovals": [
         "The study was approved by the ethics committee of the Canton of Berne (ID: 50008). "
     ],
-    "ReferencesAndLinks": [
-        "OPTIONAL. List of references to publication that contain information on the dataset, or links",
-        "https://github.com/Donders-Institute/bidscoin"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds006266.v1.0.0",
     "GeneratedBy": [
         {
