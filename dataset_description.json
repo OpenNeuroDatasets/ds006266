@@ -18,7 +18,10 @@
     "EthicsApprovals": [
         "The study was approved by the ethics committee of the Canton of Berne (ID: 50008). "
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://github.com/TomW92/TOAM-fMRI",
+        "https://doi.org/10.1101/2025.06.02.656652"
+    ],
     "DatasetDOI": "doi:10.18112/openneuro.ds006266.v1.0.0",
     "GeneratedBy": [
         {
